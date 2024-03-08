@@ -5,7 +5,7 @@ int main(void) {
   cout << "Hello, World\n";
   cout << "Hello, Jenkins\n";
   cout << "I have successfully built and run\n";
-  COUT << "webhook has been added";
+  cout << "webhook has been added";
   
   return 0;
 }
